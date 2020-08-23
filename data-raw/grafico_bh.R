@@ -16,6 +16,6 @@ gerar_grafico_serie(
   "Belo Horizonte"
 )
 
-ggplot2::ggsave("docs/serie_vitimas_bh.png")
+ggplot2::ggsave("/docs/serie_vitimas_bh.png")
 
 #gerar_grafico_serie(tab = dados_sinesp, "Rio De Janeiro")
